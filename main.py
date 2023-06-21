@@ -1,1 +1,1 @@
-print("codeschool")
+print()
